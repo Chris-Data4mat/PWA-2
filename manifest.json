@@ -1,0 +1,16 @@
+{   
+    "name":"PWA-Demo",
+    "short_name":"PWA-Demo",
+    "description":"A first attempt to make a working Web App.",
+    "icons":[{
+        "src":"/images/favicon.png",
+        "type":"image/png",
+        "size":"64x64"
+        }],
+    "orientation":"portrait-primary",
+    "theme_color":"navy",
+    "background_color":"lightblue",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "lang":"en-US"
+}

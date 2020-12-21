@@ -1,0 +1,13 @@
+body{
+    padding: 10px;
+    background: radial-gradient(silver, lightgreen);
+}
+footer{
+    background-color: blue;
+}
+.content{
+    background-color: transparent;
+}
+.copyright_class{
+    background-color: transparent;
+}
